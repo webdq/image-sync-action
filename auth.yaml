@@ -1,7 +1,7 @@
 registry.cn-beijing.aliyuncs.com/webdq:
   password: ${ALIYUN_PASSWORD}
-  username: ${ALIYUN_PASSWORD}
+  username: ${ALIYUN_USERNAME}
 # your-harbor.com:
 #   password: ${HARBOR_PASSWORD}
-#   username: ${HARBOR_PASSWORD}
+#   username: ${HARBOR_USERNAME}
 #   insecure: true
