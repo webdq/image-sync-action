@@ -1,4 +1,4 @@
-registry.cn-beijing.aliyuncs.com/webdq:
+registry.cn-beijing.aliyuncs.com/webdq-public:
   password: ${ALIYUN_PASSWORD}
   username: ${ALIYUN_USERNAME}
 # your-harbor.com:
