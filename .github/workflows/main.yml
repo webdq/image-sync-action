@@ -1,5 +1,10 @@
 name: Sync images
 
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
 jobs:
   sync-images:
     runs-on: ubuntu-latest
