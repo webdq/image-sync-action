@@ -1,1 +1,2 @@
-nginx:1.27.0: "registry.cn-beijing.aliyuncs.com/webdq-public/nginx"
+redis:7: "registry.cn-beijing.aliyuncs.com/webdq-public/redis:7"
+redis:6: "registry.cn-beijing.aliyuncs.com/webdq-public/redis:6"
