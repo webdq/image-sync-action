@@ -1,2 +1,1 @@
-gitlab/gitlab-ee:17.0.0-ee.0: "registry.cn-beijing.aliyuncs.com/webdq-public/gitlab-ee:17.0.0-ee.0"
-gitlab/gitlab-ce:17.0.0-ce.0: "registry.cn-beijing.aliyuncs.com/webdq-public/gitlab-ce:17.0.0-ce.0"
+emby/embyserver:latest: "registry.cn-beijing.aliyuncs.com/webdq-public/emby/embyserver:latest"
