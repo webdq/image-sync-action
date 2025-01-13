@@ -1,1 +1,2 @@
-emby/embyserver:4.9.0.35: "registry.cn-beijing.aliyuncs.com/webdq-public/embyserver:4.9.0.35"
+nextcloud:30.0.4: "registry.cn-beijing.aliyuncs.com/webdq-public/nextcloud:30.0.4"
+jellyfin/jellyfin:2025010605: "registry.cn-beijing.aliyuncs.com/webdq-public/jellyfin:2025010605"
