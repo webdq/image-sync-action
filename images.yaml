@@ -1,2 +1,4 @@
-photoprism/photoprism:240915: "registry.cn-beijing.aliyuncs.com/webdq-public/photoprism:240915"
-mariadb:11: "registry.cn-beijing.aliyuncs.com/webdq-public/mariadb:11"
+ghcr.io/immich-app/immich-server:v1.124.2: "registry.cn-beijing.aliyuncs.com/webdq-public/immich-server:v1.124.2"
+ghcr.io/immich-app/immich-machine-learning:v1.124.2: "registry.cn-beijing.aliyuncs.com/webdq-public/immich-machine-learning:v1.124.2"
+docker.io/redis:6.2-alpine: "registry.cn-beijing.aliyuncs.com/webdq-public/redis:6.2-alpine"
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0: "registry.cn-beijing.aliyuncs.com/webdq-public/pgvecto-rs:pg14-v0.2.0"
