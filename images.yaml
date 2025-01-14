@@ -1,1 +1,2 @@
-cnk3x/xunlei:v3.20.2: "registry.cn-beijing.aliyuncs.com/webdq-public/xunlei:v3.20.2"
+rustdesk/rustdesk-server:1.1.12: "registry.cn-beijing.aliyuncs.com/webdq-public/rustdesk-server:1.1.12"
+minio/minio:RELEASE.2024-12-18T13-15-44Z: "registry.cn-beijing.aliyuncs.com/webdq-public/minio:RELEASE.2024-12-18T13-15-44Z"
