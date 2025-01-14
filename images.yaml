@@ -1,2 +1,2 @@
-rustdesk/rustdesk-server:1.1.12: "registry.cn-beijing.aliyuncs.com/webdq-public/rustdesk-server:1.1.12"
-minio/minio:RELEASE.2024-12-18T13-15-44Z: "registry.cn-beijing.aliyuncs.com/webdq-public/minio:RELEASE.2024-12-18T13-15-44Z"
+jonnyan404/verysync:2.20.1: "registry.cn-beijing.aliyuncs.com/webdq-public/verysync:2.20.1"
+xhofe/alist:v3.41.0: "registry.cn-beijing.aliyuncs.com/webdq-public/alist:v3.41.0"
