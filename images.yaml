@@ -1,1 +1,2 @@
-homeassistant/home-assistant:2025.1: "registry.cn-beijing.aliyuncs.com/webdq-public/home-assistant:2025.1"
+metatube/metatube-server:latest: "registry.cn-beijing.aliyuncs.com/webdq-public/metatube-server:latest"
+metatube/metatube-server:1.2.9: "registry.cn-beijing.aliyuncs.com/webdq-public/metatube-server:1.2.9"
